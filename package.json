@@ -99,7 +99,7 @@
     "unist-util-visit": "4.1.1",
     "use-onclickoutside": "0.4.1",
     "uuid": "9.0.0",
-    "wagmi": "0.10.11",
+    "wagmi": "0.10.12",
     "zustand": "4.3.2"
   },
   "devDependencies": {
